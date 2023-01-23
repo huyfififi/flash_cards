@@ -3,7 +3,7 @@ import random
 import sys
 
 
-DEFAULT_TXT_FILE = "naturalization_test.txt"
+DEFAULT_TXT_FILE = "naturalization_test_2008.txt"
 
 
 if __name__ == "__main__":
